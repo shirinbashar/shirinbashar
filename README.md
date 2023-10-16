@@ -1,7 +1,6 @@
 👋 Hi, I’m @shirinbashar
-👀 I’m interested in Python and Golang
+👀 I’m interested in Python
 🌱 I’m currently learning Python
-💞️ I’m looking to collaborate on [undecided]
 📫 How to reach me shirin.bashar@outlook.com
 
 <!---
