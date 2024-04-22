@@ -1,6 +1,6 @@
 👋 Hi, I’m @shirinbashar
-👀 I’m interested in Python
-🌱 I’m currently learning Python
+👀 I’m interested in AWS, Python, Javascript, & test automation
+🌱 I’m currently learning Cypress, Python, AWS
 📫 How to reach me shirin.bashar@outlook.com
 
 <!---
