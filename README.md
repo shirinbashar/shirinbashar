@@ -1,6 +1,6 @@
 👋 Hi, I’m @shirinbashar
 👀 I’m interested in AWS, Python, Javascript, & test automation
-🌱 I’m currently learning Cypress, Python, AWS
+🌱 I’m currently learning AI/LLM Evaluation, Typescript, Plawright, AWS
 📫 How to reach me shirin.bashar@outlook.com
 
 <!---
