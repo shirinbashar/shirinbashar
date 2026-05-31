@@ -1,6 +1,4 @@
-👋 Hi, I’m @shirinbashar
-👀 I’m interested in AWS, Python, Javascript, & test automation
-🌱 I’m currently learning AI/LLM Evaluation, Typescript, Plawright, AWS
+👋 Hi, I’m Serene. I help AI/ML teams move through ambiguity by creating clear operating rhythms, evaluation gates, risk visibility, and executive-ready communication.
 📫 How to reach me shirin.bashar@outlook.com
 
 <!---
